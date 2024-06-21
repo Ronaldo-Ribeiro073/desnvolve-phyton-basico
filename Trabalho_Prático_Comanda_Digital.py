@@ -152,7 +152,7 @@ def main():
 #IMPORTANTE >> PARTE PRINCIPAL DO CÓDIGO FONTE:
     while True:
         # Saída de dados
-        print("\nBem-vindo ao comanda digital")
+        print("\nBem-vindo ao Comanda Digital")
         print("Escolha o tipo de solução desejado:")
         print("1 - Pagamento igual")
         print("2 - Pagamento igualitário (proporcional ao consumo individual)")
